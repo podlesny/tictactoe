@@ -1,6 +1,9 @@
 # Tic-tac-toe
 
-This is a fullstack Tic-Tac-Toe game where a user can play against the computer. The front end is built with React and TypeScript, styled using Chakra UI, while the back end is built with Node.js and Express. The computer makes random moves, and the game detects the winner (or a draw). The game board is responsive and supports highlighting the winning combination.
+This is a fullstack Tic-Tac-Toe game where a user can play against the computer.
+The front end is built with React and TypeScript, styled using Chakra UI, while the back end is built with Node.js and Express.
+The computer makes random moves, and the game detects the winner (or a draw).
+The game board is responsive and supports highlighting the winning combination.
 
 ## Tech Stack
 
