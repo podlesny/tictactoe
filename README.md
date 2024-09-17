@@ -4,9 +4,9 @@ This is a fullstack Tic-Tac-Toe game where a user can play against the computer.
 
 ## Tech Stack
 
-⋅⋅* Frontend: React, TypeScript, Chakra UI
-⋅⋅* Backend: Node.js, Express, TypeScript
-⋅⋅* API Client: Axios
+* Frontend: React, TypeScript, Chakra UI
+* Backend: Node.js, Express, TypeScript
+* API Client: Axios
 
 ## Installation and Setup
 ### Install dependencies
@@ -36,6 +36,6 @@ The frontend will run on 3000 port
 
 ### Play the game
 
-⋅⋅* Open http://localhost:3000 in your browser
-⋅⋅* Play Tic-Tac-Toe against the computer.
-⋅⋅* The game will highlight the winning combination when someone wins!
+* Open http://localhost:3000 in your browser
+* Play Tic-Tac-Toe against the computer.
+* The game will highlight the winning combination when someone wins!
